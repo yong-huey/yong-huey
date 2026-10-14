@@ -1,6 +1,8 @@
 # Hi, I'm Yong Huey 👋
 
-I'm a Computer Science undergraduate at Singapore Management University, majoring in Artificial Intelligence and Cybersecurity. I enjoy building web applications, developing APIs, and solving problems through software.
+I'm a Computer Science undergraduate at Singapore Management University, majoring in Artificial Intelligence and Cybersecurity. I enjoy exploring different programming languages and building web applications and APIs.
+
+I'm currently exploring cybersecurity, particularly penetration testing, and learning how to apply my software engineering knowledge to identify vulnerabilities and build more secure systems.
 
 - 🔭 I’m currently working on a Client Profile Management System using Go, Gin, and React.
 - 🌱 I’m currently learning about cybersecurity, with a focus on penetration testing, and exploring CTF challenges and cybersecurity certifications.
