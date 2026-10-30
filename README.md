@@ -21,6 +21,24 @@ I'm currently exploring cybersecurity, particularly penetration testing, and lea
 
 ## 🚀 My Project Experience
 
+### [DEADFACE 2026 CTF Writeups](https://github.com/yong-huey/DEADFACE2026) (In progress)
+🗃️ **SQL** · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="" width="20" height="20"/> **Linux** · 🔐 **Cryptography** · 🩺 **Medical-Device Security**
+
+A growing collection of writeups documenting my solutions to DEADFACE 2026 CTF challenges.
+
+- **Challenge solving:** Solved challenges across SQL/database investigation, cryptography, Linux, and medical-device security, applying investigative techniques to identify and retrieve flags.
+- **Database investigation:** Analysed database records, audit logs, and relationships across datasets using SQL to uncover information required for challenge solutions.
+- **Documentation:** Working on writeups explaining my investigation process, solution steps, and lessons learned.
+
+### [RPG Combat Simulator](https://github.com/yong-huey/RPG-Combat-Simulator) (In progress)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="" width="20" height="20"/> **Java** · 🧩 **Object-Oriented Programming** · ⚔️ **Game Logic**
+
+Developing a Java RPG combat simulator to practise object-oriented design and model character abilities and combat mechanics.
+
+- **Character modelling:** Created character classes for Warriors, Mages, Archers, and Rogues, alongside a shared character model.
+- **Skills:** Building a skill system that represents character abilities and their mana costs.
+- **Code organisation:** Structured the project into separate packages for character models, combat, skills, and enums to support continued development.
+
 ### Client Profile Management System (In progress)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="" width="20" height="20"/> **Go** · 🍸 **Gin** · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="" width="20" height="20"/> **React** · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" width="20" height="20"/> **JavaScript**
 
