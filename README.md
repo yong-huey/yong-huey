@@ -39,13 +39,15 @@ Developing a Java RPG combat simulator to practise object-oriented design and mo
 - **Skills:** Building a skill system that represents character abilities and their mana costs.
 - **Code organisation:** Structured the project into separate packages for character models, combat, skills, and enums to support continued development.
 
-### Client Profile Management System (In progress)
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="" width="20" height="20"/> **Go** · 🍸 **Gin** · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="" width="20" height="20"/> **React** · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" width="20" height="20"/> **JavaScript**
+### Client Profile Management System
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="" width="20" height="20"/> **Go** · 🍸 **Gin** · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="" width="20" height="20"/> **React** · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" width="20" height="20"/> **JavaScript** · **Burp Suite** · **OWASP ZAP**
 
-Contributed to both backend API routing and frontend application development for a client profile management system.
+Contributed to backend API routing, frontend application development and security testing for a client profile management system.
 
 - **Backend:** Implemented REST API routing using Go and Gin, defining endpoints for client profiles, verification, and account management.
 - **Frontend:** Developed application logic for role-based dashboards, authentication flows, client profile management, and navigation between views using React and JavaScript.
+- **Security Testing:** Conducted API security assessment using OWASP ZAP and Burp Suite, testing SQL injection risks, privilege escalation, and role-base access control (RBAC).
+- **Vulnerable Assessment:** Identified and mitigated unauthorized frontend route access, validated backend role restrictions, and documented potential authorization vulnerabilities.
 - **Collaboration:** Used feature-based Git branches and submitted pull requests for code review and integration.
 
 ### [International Tariff Route Optimizer](https://github.com/shakeazeez/CSD_TARIFF_PROJECT)
