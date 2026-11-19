@@ -21,10 +21,10 @@ I'm currently exploring cybersecurity, particularly penetration testing, and lea
 
 ## 🚀 My Project Experience
 
-### [DEADFACE 2026 CTF Writeups](https://github.com/yong-huey/DEADFACE2026) (Writeups in progress)
+### [DEADFACE 2026 CTF Writeups](https://github.com/yong-huey/DEADFACE2026)
 🗃️ **SQL** · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="" width="20" height="20"/> **Linux** · 🔐 **Cryptography** · 🩺 **Medical-Device Security**
 
-A growing collection of writeups documenting my solutions to DEADFACE 2026 CTF challenges.
+A collection of writeups documenting my solutions to DEADFACE 2026 CTF challenges.
 
 - **Challenge solving:** Solved challenges across SQL/database investigation, cryptography, Linux, and medical-device security, applying investigative techniques to identify and retrieve flags.
 - **Database investigation:** Analysed database records, audit logs, and relationships across datasets using SQL to uncover information required for challenge solutions.
