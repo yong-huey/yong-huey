@@ -4,8 +4,8 @@ I'm a Computer Science undergraduate at Singapore Management University, majorin
 
 I'm currently exploring cybersecurity, particularly penetration testing, and learning how to apply my software engineering knowledge to identify vulnerabilities and build more secure systems.
 
-- 🔭 I’m currently working on a Client Profile Management System using Go, Gin, and React.
-- 🌱 I’m currently learning about cybersecurity, with a focus on penetration testing, and exploring CTF challenges and cybersecurity certifications.
+- 🔭 I’ve recently completed a full-stack Client Profile Management System, contributing to frontend and backend development, as well as security testing.
+- 🌱 I’m currently expanding my cybersecurity knowledge through penetration testing, CTF challenges, secure software development, and cybersecurity certifications.
 
 **Connect with me:** <a href="https://www.linkedin.com/in/yong-huey/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="" width="20" height="20"/> LinkedIn</a>
 
