@@ -28,7 +28,7 @@ A collection of writeups documenting my solutions to DEADFACE 2026 CTF challenge
 
 - **Challenge solving:** Solved challenges across SQL/database investigation, cryptography, Linux, and medical-device security, applying investigative techniques to identify and retrieve flags.
 - **Database investigation:** Analysed database records, audit logs, and relationships across datasets using SQL to uncover information required for challenge solutions.
-- **Documentation:** Working on writeups explaining my investigation process, solution steps, and lessons learned.
+- **Documentation:** Worked on writeups explaining my investigation process, solution steps, and lessons learned.
 
 ### [RPG Combat Simulator](https://github.com/yong-huey/RPG-Combat-Simulator) (In progress)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="" width="20" height="20"/> **Java** · 🧩 **Object-Oriented Programming** · ⚔️ **Game Logic**
