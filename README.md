@@ -39,7 +39,7 @@ Developing a Java RPG combat simulator to practise object-oriented design and mo
 - **Skills:** Building a skill system that represents character abilities and their mana costs.
 - **Code organisation:** Structured the project into separate packages for character models, combat, skills, and enums to support continued development.
 
-### Client Profile Management System
+### [Client Profile Management System](https://github.com/God3Tier/scroogebank)
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="" width="20" height="20"/> **Go** · 🍸 **Gin** · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="" width="20" height="20"/> **React** · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="" width="20" height="20"/> **JavaScript** · **Burp Suite** · **OWASP ZAP**
 
 Contributed to backend API routing, frontend application development and security testing for a client profile management system.
